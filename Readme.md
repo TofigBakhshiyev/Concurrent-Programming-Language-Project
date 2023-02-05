@@ -7,7 +7,8 @@ This program creates a new window when url entered or multiple urls entered and 
 - requests `pip install requests`
 
 #### Demo Video
-[![Demo](Demo.webm)
+[!(Demo)](https://github.com/TofigBakhshiyev/Concurrent-Programming-Language-Project/blob/main/Demo.webm)
+
  
 #### Example Urls for testing
 `https://medium.com/` <br>
